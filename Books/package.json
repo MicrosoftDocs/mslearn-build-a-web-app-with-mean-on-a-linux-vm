@@ -1,0 +1,9 @@
+{
+  "name": "Books",
+  "main": "server.js",
+  "dependencies": {
+    "express" : "~4.16.4",
+    "mongoose" : "~5.3.9",
+    "body-parser" : "~1.18.3"
+  }
+}
