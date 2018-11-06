@@ -1,0 +1,15 @@
+{
+  "name": "books",
+  "description": "Sample web app that manages book information.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MicrosoftDocs/mslearn-build-a-web-app-with-mean-on-a-linux-vm"
+  },
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.16",
+    "mongoose": "~5.3",
+    "body-parser": "~1.18"
+  }
+}
