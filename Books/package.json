@@ -8,8 +8,8 @@
   },
   "main": "server.js",
   "dependencies": {
-    "express": "~4.16",
-    "mongoose": "~5.3",
-    "body-parser": "~1.18"
+    "express": "~4.17.1",
+    "mongoose": "~5.7.7",
+    "body-parser": "~1.19"
   }
 }

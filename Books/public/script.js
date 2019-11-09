@@ -1,6 +1,6 @@
-var app = angular.module('myApp', []);
-app.controller('myCtrl', function($scope, $http) {
-    var getData = function() {
+const app = angular.module('myApp', []);
+app.controller('myCtrl', ($scope, $http) => {
+    const getData = function() {
         return $http( {
             method: 'GET',
             url: '/book'
